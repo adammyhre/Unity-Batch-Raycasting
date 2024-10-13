@@ -8,6 +8,6 @@ In this video, you'll learn how to efficiently manage projectile movement and co
 
 ## YouTube
 
-[**RAYCASTING Made Insanely Fast for Collision Detection!**](#)
+[**RAYCASTING Made Insanely Fast for Collision Detection!**](https://youtu.be/WrzrtMxLgpc)
 
 You can also check out my [YouTube channel](https://www.youtube.com/@git-amend?sub_confirmation=1) for more Unity content.
